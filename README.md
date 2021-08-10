@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KithLiu
-- 👀 I’m interested in Medical image segmentation 
+- 👀 I’m interested in Medical image segmentation and multi-view learning
 - 🌱 I’m currently learning CV
 - 💞️ I’m working in hospital
 - 📫 How to reach me spot_light@outlook.com
